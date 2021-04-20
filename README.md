@@ -1,6 +1,6 @@
 # KeyPoint-Simple_ResNet & XGBoost
 
-# DACON에서 모션 키포인트 검출 AI 경진대회의 데이터로 사용했습니다.
+# DACON에서 모션 키포인트 검출 AI 경진대회의 데이터로 사용했습니다.(https://dacon.io/competitions/official/235701/data/)
 
 ## 1. cv2를 활용하여 이미지 Augumentation(이미지 파일, KeyPoint파일)
 
